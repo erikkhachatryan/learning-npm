@@ -1,10 +1,12 @@
 {
 	"name": "erikkhachatryan-learning-npm",
-	"version": "1.0.2",
+	"version": "1.0.10",
 	"description": "",
 	"main": "index.js",
 	"files": [
-		"./test-ignoring"
+		"src/**/*.js",
+		"src/included.html",
+		"test-ignoring"
 	],
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
