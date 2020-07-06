@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "test.js",
 	"dependencies": {
-		"erikkhachatryan-learning-npm": "1.0.9"
+		"erikkhachatryan-learning-npm": "~1.0.8"
 	},
 	"devDependencies": {
 		"@erik.khachatryan.org/learning-npm": "^1.0.1"
